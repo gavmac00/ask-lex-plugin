@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: This API lets you search through the Lex Fridman podcasts.
 servers:
-  - url: https://ask-lex-ti7zy.ondigitalocean.app
+  - url: https://coral-app-ex5hu.ondigitalocean.app
 paths:
   /query:
     post:
